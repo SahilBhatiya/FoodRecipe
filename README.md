@@ -3,12 +3,14 @@
 <br>
 Simple App To Manage Food Recipe
 <br>
+<br>
+<br>
 To Create DataBase You Need To Write The Following Commands In PackageManagerConsole:
 <br>
-Step 1:
+<b>Step 1:</b>
 <br>
 EntityFrameworkCore\Add-Migration
 <br>
-Step 2:
+  <b>Step 2:</b>
 <br>
 EntityFrameworkCore\Update-Database
