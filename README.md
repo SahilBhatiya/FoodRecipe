@@ -1,5 +1,5 @@
 # FoodRecipe
-FoodRecipe App
+<b>FoodRecipe App</b>
 <br>
 Simple App To Manage Food Recipe
 <br>
