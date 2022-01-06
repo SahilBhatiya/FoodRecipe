@@ -5,7 +5,8 @@ Simple App To Manage Food Recipe
 <br>
 <br>
 <br>
-To Create DataBase You Need To Write The Following Commands In PackageManagerConsole:
+<hr>
+<b>To Create DataBase You Need To Write The Following Commands In PackageManagerConsole:</b>
 <br>
 <b>Step 1:</b>
 <br>
